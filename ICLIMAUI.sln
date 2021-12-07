@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICLIMAUI", "ICLIMAUI\ICLIMAUI.csproj", "{B3AC7631-882C-4867-8B6F-44CF1A8FD48C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3AC7631-882C-4867-8B6F-44CF1A8FD48C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3AC7631-882C-4867-8B6F-44CF1A8FD48C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3AC7631-882C-4867-8B6F-44CF1A8FD48C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3AC7631-882C-4867-8B6F-44CF1A8FD48C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D00C9B22-8C0E-4346-89E5-A88C60E31EB3}
+	EndGlobalSection
+EndGlobal
